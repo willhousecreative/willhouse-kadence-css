@@ -1,2 +1,13 @@
+html {
+  font-size: 62.5%; }
+
+.image-with-overlay {
+  position: relative; }
+  .image-with-overlay__overlay {
+    position: absolute;
+    bottom: 50px;
+    left: 0;
+    width: 100%; }
+
 .popup-drawer .mobile-header-button-wrap {
   margin-top: 2rem; }

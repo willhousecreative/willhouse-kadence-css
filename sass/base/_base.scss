@@ -1,0 +1,5 @@
+html {
+    // this defines 1rem;
+    font-size: 62.5%; // <-- now the root is 10px instead the default is 16px;
+    // this allows us to say 1.5rem is 15px. Much easier math!
+}
